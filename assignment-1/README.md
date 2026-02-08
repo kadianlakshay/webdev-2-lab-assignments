@@ -2,7 +2,7 @@ Website overview
 
 <img width="1378" height="641" alt="Screenshot 2026-02-08 191716" src="https://github.com/user-attachments/assets/f2326ff0-a450-43d4-b011-79e5a1088125" />
 
-addiding events
+adding events
 
 <img width="1371" height="599" alt="Screenshot 2026-02-08 192428" src="https://github.com/user-attachments/assets/05d44ce2-7e68-4ceb-9d9f-28d02d7b52e5" />
 
